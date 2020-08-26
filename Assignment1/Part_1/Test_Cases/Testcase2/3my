@@ -1,0 +1,2 @@
+IITK/Undergraduate/labs/kdlabs/101/details.txt:       The steps of closing and reusing the file descriptor newfd are
+IITK/Undergraduate/labs/kdlabs/101/details.txt:       race conditions, whereby newfd might be reused between the two steps.
